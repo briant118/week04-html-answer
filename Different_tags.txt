@@ -9,7 +9,7 @@ Document Structure Tags:
 
 Metadata & Linking Tags:
 <meta> – Specifies character encoding (UTF-8) and viewport settings.
-<title> – Sets the title of the webpage.
+<title> – Sets the title of the webpage
 <link> – Links an external CSS file (styles.css).
 
 Navigation & Layout Tags:
