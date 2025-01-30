@@ -1,0 +1,30 @@
+Different tag
+
+Document Structure Tags:
+
+<!DOCTYPE html> – Defines the document type as HTML5.
+<html> – The root element of the HTML document.
+<head> – Contains meta-information about the document.
+<body> – Contains the main content of the webpage.
+
+Metadata & Linking Tags:
+<meta> – Specifies character encoding (UTF-8) and viewport settings.
+<title> – Sets the title of the webpage.
+<link> – Links an external CSS file (styles.css).
+
+Navigation & Layout Tags:
+<header> – Defines the header section.
+<nav> – Contains the navigation menu.
+<ul> – Creates an unordered list for navigation links.
+<li> – Defines individual list items in the navigation.
+<a> – Represents hyperlinks for navigation.
+<section> – Defines sections of content (home, menu, about, contact).
+<footer> – Defines the footer section.
+
+Content Tags:
+<div> – A container for grouping content (logo).
+<img> – Displays an image (logo.png).
+<h1> – Main heading (Welcome to CozyCup Café).
+<h2> – Subheadings (Our Menu, About Us, Contact Us).
+<p> – Paragraphs of text.
+<a> (again) – Also used as a
